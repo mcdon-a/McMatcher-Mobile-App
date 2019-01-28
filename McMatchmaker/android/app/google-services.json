@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "677424058703",
+    "firebase_url": "https://mcmatchmaker-34736.firebaseio.com",
+    "project_id": "mcmatchmaker-34736",
+    "storage_bucket": "mcmatchmaker-34736.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677424058703:android:9b39398f2c52845d",
+        "android_client_info": {
+          "package_name": "com.mcmatchmaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677424058703-uvf4pgl4dmoan0uf4nhicr0c2jiemjgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKXh7aO2aJpTB-SqoDDUetGxJqTVvM9aw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
